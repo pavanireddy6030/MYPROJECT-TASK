@@ -1,6 +1,7 @@
 public class Msg{
 	public static void main(string[] args){
-		system.out.println("Welcome to Git session");
-			System.out.println("good morning");
+		System.out.println("Hey hi am from devops team");
+		System.out.println("good morning");
 	}
 }
+
